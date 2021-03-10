@@ -3,7 +3,7 @@
 </h1>
 <p align="center"> Aplicação para aprender os conceitos básicos do ReactJS 💻🚀 </p>
 
-Aplicação simples, com integração com a api do Github, para treinar e aperfeiçoar
+Aplicação simples, com integração da api do Github, para treinar e aperfeiçoar
 os conceitos básicos do ReactJS. O projeto foi criado inteiramente do zero, sem nenhum
 comando como create react-app, ou algo do tipo.
 Nela aprendemos a configurar o babel, webpack e também o typescript.
