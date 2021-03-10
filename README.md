@@ -14,8 +14,8 @@ Nela aprendemos a configurar o babel, webpack e também o typescript.
 
 <h2 id="author"> 💻 Autor </h2>
 
-<strong> By Natanael Silva </strong> 👊🏾🚀
-Vamos se conectar. Minhas principais plataformas
+<strong> By Natanael Silva </strong> 👊🏾🚀 <br />
+<span>Vamos se conectar. Minhas principais plataformas:<span>
 
 [![Linkedin Badge](https://img.shields.io/badge/-natanaelsilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvanatanael/)](https://www.linkedin.com/in/silvanatanael/)
 [![Badge](https://img.shields.io/badge/-rocketseat-8257e5?style=flat-square&logoColor=white&link=https://app.rocketseat.com.br/me/natanaelsilva)](https://app.rocketseat.com.br/me/natanaelsilva)
